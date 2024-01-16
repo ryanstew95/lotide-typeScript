@@ -6,7 +6,7 @@ export const assertEqual = function (actual: any, expected: any): void {
   }
 };
 
-// Example Usage:
-assertEqual(2 + 2, 4);
-assertEqual("hello", "hello");
-assertEqual(true, false);
+// testing:
+// assertEqual(2 + 2, 4);
+// assertEqual("hello", "hello");
+// assertEqual(true, false);
